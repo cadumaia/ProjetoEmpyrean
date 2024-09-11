@@ -12,13 +12,38 @@ Focada no setor fitness, esse que está cada vez mais abrangente para quem busca
 
 ## Stack utilizada
 
-**Front-end:** React, Next, Bootstrap
+**Front-end:** 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
 
-**Back-end:** Node, Express
+**Back-end:** 
+<div align = "left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" alt="nodejs logo"  />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+<img width="12"/>
+</div>
 
-**Banco de Dados:** Firebase e testes com MongoDB
+**Banco de Dados:** 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="30" alt="mongodb logo"  />
+  <img width="12"/>
+</div>
 
-**Gerenciamento de Projeto e Prototipagem:** Trello e Figma
+**Gerenciamento de Projeto e Prototipagem:** 
+<div align = "left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12"/>
+</div>
 
 
 
